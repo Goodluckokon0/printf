@@ -16,7 +16,7 @@ function that produces output according to a format.  Writes the output under th
 A character that specifies the type of conversion to be applied. The conversion specifiers and their meanings are:
 
 .IP d,i
-Decimal signed integer. The int argument is converted to signed decimal notation. 
+Decimal signed integer. The int argument is converted to signed decimal notation.
 
 .IP c
 Character. The int argument is converted to an unsigned char, and the resulting character is written.
